@@ -1,0 +1,17 @@
+body {
+    background: no-repeat url(pic-animetion/background1.jpg);
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+.character-1{
+    position: absolute;
+    bottom: 5%; 
+}
+.character-2{
+    position: absolute;
+    right: 10%;
+    bottom: 5%;
+}
